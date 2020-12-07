@@ -1,0 +1,161 @@
+        <section id="news" class="noticias">
+            <div class=" container-fluid bg-light">
+                <div class="row mt-md-5 mt-sm-5 mt-xs-5">
+                    <!-- cuadro 1 -->
+
+                    <div class="cuadro 1 col-lg-6 col-xs-12">
+                        <div class="d-flex justify-content-center align-items-center">
+
+                            <div class="imagen1 align-self-center mr-3">
+                                <!-- imagen de alarma, todo el svg -->
+                                <img src="https://cdn.pixabay.com/photo/2016/06/01/18/45/sir-paul-mccartney-1429499_1280.jpg"
+                                    alt="imagen1" width="280" height="190">
+
+                            </div>
+
+                            <div class="noticia-texto">
+                                <h3 class="noticia-titulo">
+                                    Posible colaboración entre Paul Mcartney y la banda Gorillaz
+                                </h3>
+                                <hr>
+                                <p class="noticia-parrafo">Hay una posibilidad de que el legendario ex miemrbo de The
+                                    Beatles, y
+                                    la mítica banda virtual
+                                    Gorillaz puedan realizar una colaboración, según palabras de Damon Albarn (Vocalista
+                                    de
+                                    Gorillaz) </p>
+
+                                <!-- Hay que enlazar el button con la noticia -->
+
+                                <!-- <a class="noticia-link" href="https://www.radionica.rocks/musica-internacional/gorillaz-paul-mccartney">Ver la noticia completa >></a> -->
+                            </div>
+
+                        </div>
+
+                        <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
+                            <a class="btn btn-dark"
+                                href="https://www.radionica.rocks/musica-internacional/gorillaz-paul-mccartney"
+                                role="button">ir
+                                a la pagina pricipal</a>
+                        </div>
+                    </div>
+
+                    <!-- cuadro 2 -->
+
+                    <div class="cuadro 2 col-lg-6 col-xs-12">
+                        <div class="d-flex justify-content-center align-items-center">
+
+                            <div class="imagen1 align-self-center mr-3">
+                                <!-- imagen de alarma, todo el svg -->
+                                <img src="https://cdn.pixabay.com/photo/2013/07/18/10/56/packs-163497_1280.jpg"
+                                    alt="imagen1" width="280" height="190">
+
+                            </div>
+
+                            <div class="noticia-texto">
+                                <h3 class="noticia-titulo">
+                                    System of a Down recauda miles de dolares para apoyar a la población de Armenia
+                                </h3>
+                                <hr>
+                                <p class="noticia-parrafo">Los dos nuevos sencillos de la banda System of a Down, cuya
+                                    letra
+                                    realiza una dura crítica a la tensión política entre Armenia y Arzebaiyan
+                                    ha recaudado miles de dólares para apoyar a la población de donde provienen.</p>
+
+                                <!-- Hay que enlazar el button con la noticia -->
+
+                                <!-- <a class="noticia-link" href="https://www.radionica.rocks/musica-internacional/gorillaz-paul-mccartney">Ver la noticia completa >></a> -->
+                            </div>
+
+                        </div>
+
+                        <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
+                            <a class="btn btn-dark"
+                                href="https://www.radionica.rocks/musica-internacional/system-a-down-apoyo-armenia"
+                                role="button">ir a la pagina pricipal</a>
+                        </div>
+                    </div>
+
+                    <!-- cuadro 3 -->
+
+                    <div class="cuadro 1 col-lg-6 col-xs-12">
+                        <div class="d-flex justify-content-center align-items-center">
+
+                            <div class="imagen1 align-self-center mr-3">
+                                <!-- imagen de alarma, todo el svg -->
+                                <img src="https://cdn.pixabay.com/photo/2019/03/23/13/54/gaming-4075424_1280.jpg"
+                                    alt="imagen1" width="280" height="190">
+
+                            </div>
+
+                            <div class="noticia-texto">
+                                <h3 class="noticia-titulo">
+                                    K/DA, mas cerca de la realidad
+                                </h3>
+                                <hr>
+                                <p class="noticia-parrafo">La industria de los videojuegos han tenido un crecimiento
+                                    enorme,
+                                    teniendo cada vez más influencia en la población mundial
+                                    especialmente en los jóvenes. pero, ¿Qué puede pasar si se fusiona la fiebre por los
+                                    videojuegos, la creatividad de su público
+                                    y la musica? La banda virtual K/DA puede responder a esa pregunta. </p>
+
+                                <!-- Hay que enlazar el button con la noticia -->
+
+                                <!-- <a class="noticia-link" href="https://www.radionica.rocks/musica-internacional/gorillaz-paul-mccartney">Ver la noticia completa >></a> -->
+                            </div>
+
+                        </div>
+
+                        <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
+                            <a class="btn btn-dark"
+                                href="https://www.rollingstone.com.co/life-style/k-da-mas-cerca-de-la-realidad/"
+                                role="button">ir
+                                a la pagina pricipal</a>
+                        </div>
+                    </div>
+
+                    <!-- cuadro 4 -->
+
+                    <div class="cuadro 1 col-lg-6 col-xs-12">
+                        <div class="d-flex justify-content-center align-items-center">
+
+                            <div class="imagen1 align-self-center mr-3">
+                                <!-- imagen de alarma, todo el svg -->
+                                <img src="https://cdn.pixabay.com/photo/2018/03/17/01/29/diego-maradona-3232967_960_720.png"
+                                    alt="imagen1" width="280" height="190">
+
+                            </div>
+
+                            <div class="noticia-texto">
+                                <h3 class="noticia-titulo">
+                                    Las cinco mejores canciones de punk para Maradona
+                                </h3>
+                                <hr>
+                                <p class="noticia-parrafo">Se sabe de la gran imagen que ha dejado este gran jugador en
+                                    el
+                                    futbol, incluso su faceta por fuera de la cancha ha dado de que hablar
+                                    en todo el mundo. Sin embargo, no es el único legado que nos dejó a todos, pues en
+                                    la música
+                                    sirvió de inspiración para que algunas bandas de punk plasmaran su imagen en las
+                                    letras de
+                                    sus canciones.</p>
+
+                                <!-- Hay que enlazar el button con la noticia -->
+
+                                <!-- <a class="noticia-link" href="https://www.radionica.rocks/musica-internacional/gorillaz-paul-mccartney">Ver la noticia completa >></a> -->
+                            </div>
+
+                        </div>
+
+                        <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
+                            <a class="btn btn-dark"
+                                href="https://www.rollingstone.com.co/musica/las-cinco-mejores-canciones-de-punk-para-diego-armando-maradona/"
+                                role="button">ir
+                                a la pagina pricipal</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>

@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <section id=" news" class="noticias">
+      <div class="container-fluid bg-light">
+        <section-api></section-api>
+      </div>
+    </section>
     <div id="team" class="container-fluid">
       <div class="row justify-content-center mb-5">
         <div class="col mt-5 h-100" v-for="(item, index) of team" :key="index">
@@ -12,11 +17,13 @@
 
 <script>
 import TeamCard from "./components/TeamCard.vue";
+import SectionApi from "./components/SectionApi.vue";
 
 export default {
   name: "App",
   components: {
     TeamCard,
+    SectionApi
   },
   data() {
     return {
